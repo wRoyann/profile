@@ -55,7 +55,7 @@ Aktifkan dengan menambahkan GitHub Actions workflow "snk" pada repository wRoyan
 lalu tampilkan hasilnya di sini:
 -->
 
-![Snake animation](https://raw.githubusercontent.com/wRoyan/wRoyan/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/wRoyann/wRoyann/output/github-contribution-grid-snake-dark.svg)
 
 <!-- ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg) -->
 
