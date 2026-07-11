@@ -55,10 +55,11 @@
 🐍 Contribution Snake
 Aktifkan dengan menambahkan GitHub Actions workflow "snk" pada repository wRoyan/wRoyan
 lalu tampilkan hasilnya di sini:
-![Snake animation](https://raw.githubusercontent.com/wRoyan/wRoyan/output/github-contribution-grid-snake.svg)
 -->
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/wRoyan/wRoyan/output/github-contribution-grid-snake.svg)
+
+<!-- ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg) -->
 
 ![Line](https://img.shields.io/badge/-%C2%A0-1D4ED8?style=flat-square)
 
