@@ -1,114 +1,96 @@
-<!-- Banner besar dengan inisial nama -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:0056b3&height=180&section=header&text=RB&fontSize=90&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
-</p>
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:2563EB,100:60A5FA&height=220&section=header&text=Hi%20There,%20I'm%20Royan%20👋&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Front-End%20%7C%20Web%20%7C%20Software%20Developer&descAlignY=58&descSize=18)
 
-<h1>👋 Hi, I'm Nur Muhammad Royan Birallah</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Nur+Muhammad+Royan+Birallah;Mahasiswa+Teknik+Informatika;Front-End+%7C+Web+%7C+Software+Developer;Selalu+Belajar+Hal+Baru+Setiap+Hari+%F0%9F%9A%80)
 
-<p>
-  Biasa dipanggil <b>Royan</b> — Mahasiswa <b>Teknik Informatika</b>, Universitas Pamulang.
-</p>
+![Line](https://img.shields.io/badge/-%C2%A0-2563EB?style=flat-square&logoColor=white)
+[![Profile Views](https://komarev.com/ghpvc/?username=wRoyan&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/wRoyan)
+[![Followers](https://img.shields.io/github/followers/wRoyan?label=FOLLOWERS&style=for-the-badge&color=2563EB&labelColor=1D4ED8)](https://github.com/wRoyan)
+[![Stars](https://img.shields.io/github/stars/wRoyan?label=STARS&style=for-the-badge&color=60A5FA&labelColor=1D4ED8)](https://github.com/wRoyan)
 
-<!-- Animasi teks berjalan (Typing SVG) -->
-<p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1E90FF&center=false&vCenter=true&width=600&lines=Mahasiswa+Teknik+Informatika;Belajar+Web+%26+Software+Development;Terus+Belajar%2C+Terus+Berkarya!" alt="Typing SVG" />
-  </a>
-</p>
+## 💙 About Me
 
-<hr>
+- 🎓 Mahasiswa **Teknik Informatika**, **Universitas Pamulang**
+- 💻 Fokus pada **Front-End Development**, **Web Development**, dan **Software Development**
+- 🌐 Senang mempelajari teknologi web modern terkini
+- 🛠️ Sedang membangun berbagai project untuk mengasah kemampuan
+- 📈 Punya semangat belajar dan berkembang setiap hari
+- 📫 Terhubung dengan saya melalui GitHub: **[@wRoyan](https://github.com/wRoyan)**
 
-<h3>✨ About Me</h3>
+![Line](https://img.shields.io/badge/-%C2%A0-1D4ED8?style=flat-square)
 
-<p>
-Halo! Saya <b>Royan</b>, seorang mahasiswa Teknik Informatika di Universitas Pamulang yang <b>antusias belajar pengembangan perangkat lunak</b>.
-</p>
+## 🧰 Tech Stack
 
-<p>
-Saya senang <b>belajar hal-hal baru, mencoba teknologi yang berbeda, dan mengerjakan project</b> untuk mengasah kemampuan saya sebagai calon software developer.
-</p>
+### Languages & Frameworks
 
-<p>
-Fokus saya saat ini adalah <b>memahami dasar-dasar pemrograman dengan kuat</b>, membangun project nyata, dan terus berkembang selangkah demi selangkah.
-</p>
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light)
 
-<!-- Profile view counter + badge status -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=wRoyann&label=Profile%20Views&color=1E90FF&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Mahasiswa%20Aktif-1E90FF?style=flat&labelColor=ffffff" alt="Status" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-2563EB?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1D4ED8?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-60A5FA?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-1D4ED8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
----
+### Tools
 
-### 🔗 Media Sosial
+![Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=light)
 
-<p align="left">
-  <a href="https://instagram.com/USERNAME_KAMU" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/USERNAME_KAMU" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/USERNAME_KAMU" target="_blank">
-    <img src="https://img.shields.io/badge/X-1E90FF?style=for-the-badge&logo=X&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@USERNAME_KAMU" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-1E90FF?style=for-the-badge&logo=YouTube&logoColor=white" />
-  </a>
-  <a href="https://wa.me/62xxxxxxxxxxx" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-1E90FF?style=for-the-badge&logo=WhatsApp&logoColor=white" />
-  </a>
-  <a href="mailto:emailkamu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+![Git](https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1D4ED8?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-60A5FA?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Pawno](https://img.shields.io/badge/Pawno-2563EB?style=for-the-badge&logo=codeblocks&logoColor=white)
 
----
+![Line](https://img.shields.io/badge/-%C2%A0-2563EB?style=flat-square)
 
-### 🛠️ Bahasa Pemrograman & Tools
+## 📊 GitHub Statistics
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,vscode&theme=light" />
-  <img src="https://img.shields.io/badge/Pawno-1E90FF?style=for-the-badge&logo=lua&logoColor=white" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wRoyan&show_icons=true&theme=transparent&bg_color=FFFFFF&title_color=1D4ED8&icon_color=2563EB&text_color=2563EB&border_color=2563EB&hide_border=false&count_private=true)
 
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wRoyan&theme=default&background=FFFFFF&border=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=1D4ED8&sideLabels=2563EB&currStreakNum=1D4ED8&sideNums=2563EB&dates=60A5FA)
 
-### 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wRoyan&layout=compact&theme=transparent&bg_color=FFFFFF&title_color=1D4ED8&text_color=2563EB&border_color=2563EB&hide_border=false)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wRoyann&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=1E90FF&text_color=000000&icon_color=1E90FF&border_color=1E90FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wRoyann&layout=compact&bg_color=ffffff&title_color=1E90FF&text_color=000000&border_color=1E90FF" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wRoyan&bg_color=FFFFFF&color=2563EB&line=2563EB&point=1D4ED8&area=true&hide_border=false&border_color=60A5FA)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wRoyann&background=ffffff&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=000000" />
-</p>
+<!--
+🐍 Contribution Snake
+Aktifkan dengan menambahkan GitHub Actions workflow "snk" pada repository wRoyan/wRoyan
+lalu tampilkan hasilnya di sini:
+![Snake animation](https://raw.githubusercontent.com/wRoyan/wRoyan/output/github-contribution-grid-snake.svg)
+-->
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wRoyann&theme=flat&row=1&column=7&title.color=1E90FF&text.color=000000&icon.color=1E90FF&background=ffffff" />
-</p>
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
----
+![Line](https://img.shields.io/badge/-%C2%A0-1D4ED8?style=flat-square)
 
-### 📈 Aktivitas Grafik (Animasi)
+## 🌱 Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wRoyann&bg_color=ffffff&color=1E90FF&line=1E90FF&point=000000&area=true&hide_border=true" />
-</p>
+![React](https://img.shields.io/badge/React%20Ecosystem-2563EB?style=for-the-badge&logo=react&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-1D4ED8?style=for-the-badge&logo=fastapi&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive%20Web%20Design-60A5FA?style=for-the-badge&logo=css3&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-2563EB?style=for-the-badge&logo=codefactor&logoColor=white)
+![Architecture](https://img.shields.io/badge/Software%20Architecture-1D4ED8?style=for-the-badge&logo=buildkite&logoColor=white)
+![Best Practices](https://img.shields.io/badge/Best%20Practices-60A5FA?style=for-the-badge&logo=checkmarx&logoColor=white)
 
----
+![Line](https://img.shields.io/badge/-%C2%A0-2563EB?style=flat-square)
 
-### 🐍 Snake Animation (kontribusi GitHub jadi ular yang bergerak)
+## 🎯 Goals
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wRoyann/wRoyann/output/github-contribution-grid-snake.svg" />
-</p>
+- 🚀 Menjadi **Software Developer profesional**
+- 🌍 Berkontribusi pada **Open Source**
+- 🧩 Mengembangkan **project yang bermanfaat**
+- 🎨 Memperdalam **Front-End Development**
+- ⚙️ Mempelajari **Back-End Development**
+- 🧠 Terus meningkatkan **kemampuan problem solving**
 
----
+![Line](https://img.shields.io/badge/-%C2%A0-1D4ED8?style=flat-square)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0056b3&height=120&section=footer" />
-</p>
+## 💬 Quote
 
-<p align="center">⭐️ Terima kasih sudah mampir ke profil saya!</p>
+> "First, solve the problem. Then, write the code."
+> — John Johnson
+
+![Line](https://img.shields.io/badge/-%C2%A0-2563EB?style=flat-square)
+
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:2563EB,100:1D4ED8&height=150&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=75)
+
+**Nur Muhammad Royan Birallah** · Teknik Informatika · Universitas Pamulang
