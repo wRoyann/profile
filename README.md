@@ -43,13 +43,11 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wRoyan&show_icons=true&theme=transparent&bg_color=FFFFFF&title_color=1D4ED8&icon_color=2563EB&text_color=2563EB&border_color=2563EB&hide_border=false&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wRoyan&show_icons=true&theme=transparent&title_color=2563EB&icon_color=2563EB&text_color=2563EB&border_color=2563EB)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wRoyan&theme=default&background=FFFFFF&border=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=1D4ED8&sideLabels=2563EB&currStreakNum=1D4ED8&sideNums=2563EB&dates=60A5FA)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wRoyan&layout=compact&theme=transparent&bg_color=FFFFFF&title_color=1D4ED8&text_color=2563EB&border_color=2563EB&hide_border=false)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wRoyan&bg_color=FFFFFF&color=2563EB&line=2563EB&point=1D4ED8&area=true&hide_border=false&border_color=60A5FA)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wRoyan&layout=compact&theme=transparent&title_color=2563EB&text_color=2563EB&border_color=2563EB)
 
 <!--
 🐍 Contribution Snake
