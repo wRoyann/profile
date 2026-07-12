@@ -49,7 +49,8 @@ Goals: • Become a Professional Software Developer
 ```
 
 <br>
-### 💬 Quote
+
+## 💬 Quote
 
 > "First, solve the problem. Then, write the code."
 > — John Johnson
@@ -114,6 +115,7 @@ lalu tampilkan hasilnya di sini:
 
 ## 🔗 Connect With Me
 
+[![Gmail](https://img.shields.io/badge/Gmail-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurmuhammadroyanbirallah@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nmrynbirallah)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-muhammad-royan-birallah)
 
