@@ -50,6 +50,11 @@ Goals: • Become a Professional Software Developer
 
 <br>
 
+## 💬 Quote
+
+> "First, solve the problem. Then, write the code."
+> — John Johnson
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=2563EB"/>
 
 ## 🧰 Tech Stack
@@ -123,24 +128,6 @@ lalu tampilkan hasilnya di sini:
 ![Clean Code](https://img.shields.io/badge/Clean%20Code-2563EB?style=for-the-badge&logo=codefactor&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Software%20Architecture-1D4ED8?style=for-the-badge&logo=buildkite&logoColor=white)
 ![Best Practices](https://img.shields.io/badge/Best%20Practices-60A5FA?style=for-the-badge&logo=checkmarx&logoColor=white)
-
-![Line](https://img.shields.io/badge/-%C2%A0-2563EB?style=flat-square)
-
-## 🎯 Goals
-
-- 🚀 Menjadi **Software Developer profesional**
-- 🌍 Berkontribusi pada **Open Source**
-- 🧩 Mengembangkan **project yang bermanfaat**
-- 🎨 Memperdalam **Front-End Development**
-- ⚙️ Mempelajari **Back-End Development**
-- 🧠 Terus meningkatkan **kemampuan problem solving**
-
-![Line](https://img.shields.io/badge/-%C2%A0-1D4ED8?style=flat-square)
-
-## 💬 Quote
-
-> "First, solve the problem. Then, write the code."
-> — John Johnson
 
 ![Line](https://img.shields.io/badge/-%C2%A0-2563EB?style=flat-square)
 
