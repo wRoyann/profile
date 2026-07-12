@@ -3,13 +3,6 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=900&color=2563EB&center=true&vCenter=true&width=850&lines=Hi+There;I+am+Royan;Front-End+Developer;Web+Developer;Software+Developer"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
 <a href="https://github.com/wRoyann">
 <img src="https://komarev.com/ghpvc/?username=wRoyann&label=PROFILE+VIEWS&style=for-the-badge&color=2563EB&logo=github&logoColor=white"/>
 </a>
