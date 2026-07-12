@@ -23,7 +23,7 @@
 
 # 💙 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a3Q4cnphazJ5MXRhbW9pa2xxbG1wbW0xdWR6OGdsY3l0YmxxeGpyayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ASy3PKVFnk7ZK/giphy.gif"/>
+<img align="right" width="320" src="./assets/calm.mp4"/>
 
 ```yaml
 Name: Nur Muhammad Royan Birallah
