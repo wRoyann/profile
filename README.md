@@ -23,7 +23,7 @@
 
 # 💙 About Me
 
-<img align="right" width="320" src="./assets/calm.mp4"/>
+<img align="right" width="320" src="./assets/calm.gif"/>
 
 ```yaml
 Name: Nur Muhammad Royan Birallah
